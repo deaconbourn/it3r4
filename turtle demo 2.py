@@ -1,7 +1,8 @@
 import time
 import turtle
 import random
-
+#turtle demo
+#turtling demo
 turtle = turtle.Pen()
 
 for i in range(20):
